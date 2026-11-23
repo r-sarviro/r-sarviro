@@ -4,12 +4,12 @@
 
 I build mobile and web apps with React Native and React / Next.js across the full lifecycle — from architecture to release.
 
-| | |
-| --- | --- |
-| **Tenure** | Over 5 years of commercial development |
-| **Focus** | Performance, complex migrations, and stable releases |
-| **Process** | Architecture, code review, and how delivery is organized |
-| **Releases** | Production, app store releases, and post-launch support |
+### Highlights
+
+- **Tenure** — Over 5 years of commercial development
+- **Focus** — Performance, complex migrations, and stable releases
+- **Process** — Architecture, code review, and how delivery is organized
+- **Releases** — Production, app store releases, and post-launch support
 
 **Portfolio:** [EN](https://r-sarviro.github.io/portfolio/en/) · [RU](https://r-sarviro.github.io/portfolio/)
 
@@ -35,43 +35,26 @@ Languages and frameworks, mobile and native development, state management and da
 
 Experience across industries and product formats: FinTech, corporate products, high-load and scalable services; mobile and web — from higher-security work to legacy migrations and greenfield launches.
 
-### A4ord — German FinTech: banking app and marketplace
+### [A4ord](https://r-sarviro.github.io/portfolio/en/#case-a4ord) — German FinTech: banking app and marketplace
 **Senior Frontend Developer**
 
 - Led the mobile team: planning, estimation, task allocation, and regular code review
 - Shipped banking-grade security at the native/JS boundary: Keychain / Keystore, device binding, 3D Secure, SSL Pinning, Smart Agent
 - Built a multilingual Next.js marketplace with SSR for SEO and fast rendering
 
-### BabyHelper — Mobile ecosystem for young parents
+### [BabyHelper](https://r-sarviro.github.io/portfolio/en/#case-babyhelper) — Mobile ecosystem for young parents
 **Senior React Native Developer**
 
 - Crisis refactor: removed 6,000+ lines of redundant code and 15+ incompatible SDKs; restored delivery process
 - Migrated to the New React Native Architecture (Fabric, TurboModules, JSI)
 - ~15× faster time to enter the app; higher App Store and Google Play ratings after stabilizing core flows
 
-### Pole.rf — Platform for agriculture
+### [Pole.rf](https://r-sarviro.github.io/portfolio/en/#case-pole) — Platform for agriculture
 **Senior Frontend Developer**
 
 - Designed and launched a mobile app from scratch on Expo
 - Redesigned key web surfaces (homepage, Journal) and shipped an admin panel for live content updates
 - Published the apps on Google Play and the App Store
-
-<details>
-<summary><strong>Other projects</strong></summary>
-
-**ChaChat · Neiro.ai** — *Senior React Native Developer*  
-Stabilized real-time chat ahead of a promotion round; Apple/Google OAuth; product analytics and chat funnels.
-
-**RCM** — *React Native Developer*  
-Expo → React Native CLI migration; biometrics; same app on Desktop/Web via Electron.
-
-**GZKtur** — *Senior React Native Developer*  
-Tour search/booking and hiking routes with maps & audio guides; shipped standalone *Bylinny Path*; both apps on the stores.
-
-**Transparent Business** — *Frontend Developer*  
-Responsive refactor, measurable load-speed gains, multilingual support and baseline SEO.
-
-</details>
 
 Full case studies: [r-sarviro.github.io/portfolio/en](https://r-sarviro.github.io/portfolio/en/)
 
@@ -81,8 +64,6 @@ Full case studies: [r-sarviro.github.io/portfolio/en](https://r-sarviro.github.i
 
 **Vitebsk State University named after P. M. Masherov**  
 Faculty of Mathematics and Information Technologies · Software Engineering for Information Technologies · Software Engineer
-
-**GREEN-API** — Developer qualification certificate (chatbot integration; reg. № 2243747)
 
 ---
 
