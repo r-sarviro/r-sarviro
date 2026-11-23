@@ -1,5 +1,7 @@
 # Roman Sarviro
 
+**Language:** [EN](README.md) · [RU](README.ru.md)
+
 ### Senior React / React Native Developer
 
 I build mobile and web apps with React Native and React / Next.js across the full lifecycle — from architecture to release.
